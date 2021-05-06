@@ -165,3 +165,21 @@ html {
 .status {
   text-align: center;
 }
+
+/* Estilos de la sección grid */
+
+.section-grid {
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.tittle-grid {
+  width: 320px;
+}
+
+.container-grid {
+  width: 320px;
+}
